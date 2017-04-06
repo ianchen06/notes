@@ -21,7 +21,7 @@ gh-pages:
 	git checkout master $(GH_PAGES_SOURCES)
 	git reset HEAD
 	make html
-	rsync --delete build/html/* ./
+	rsync -r --delete build/html/* ./
 	rm -rf $(GH_PAGES_SOURCES) build
 	touch .nojekyll
 	git add -A
