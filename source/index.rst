@@ -10,10 +10,12 @@ Welcome to Ian's Coding Notes
 This place documents hosts my coding notes.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Contents:
 
    cassandra/index.rst
+   kubernetes/index.rst
+   azure/index.rst
 
 
 
