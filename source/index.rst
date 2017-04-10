@@ -16,6 +16,7 @@ This place documents hosts my coding notes.
    cassandra/index.rst
    kubernetes/index.rst
    azure/index.rst
+   networking/index.rst
 
 
 
