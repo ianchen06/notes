@@ -17,6 +17,7 @@ This place documents hosts my coding notes.
    kubernetes/index.rst
    azure/index.rst
    networking/index.rst
+   linux/index.rst
 
 
 
