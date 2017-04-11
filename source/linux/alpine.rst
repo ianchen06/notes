@@ -42,6 +42,7 @@ Let's create a custom openrc script to fix that, remounting the /dev/sda1 partio
 We can check if it is successful by
 
 .. code-block:: bash
+
    df -h
 
 
