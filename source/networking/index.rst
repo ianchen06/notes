@@ -8,3 +8,4 @@ Basic networking notes, including routing and firewall
 
    pppd
    firewall
+   vpn
