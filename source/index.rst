@@ -19,6 +19,7 @@ This place documents hosts my coding notes.
    networking/index.rst
    linux/index.rst
    javascript/index.rst
+   3dprinting/index.rst
 
 
 
