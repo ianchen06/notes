@@ -116,6 +116,7 @@ html_static_path = ['_static']
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'ian_coding_notesdoc'
+html_last_updated_fmt = True
 
 
 # -- Options for LaTeX output ---------------------------------------------
